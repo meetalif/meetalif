@@ -1,15 +1,11 @@
-I'm Alif, a mobile application developer with flutter. I design clean and intuitive user interfaces, and I'm passionate about contributing to the open-source community.
+# Hi, I'm Alif! 👋
 
-## About Me
+I'm a Flutter developer passionate about creating smooth, bug-free, high-performance and beautiful mobile apps. I love contributing to open source.
 
-- **Experience**: 3+ years in Flutter development
-- **Focus**: Crafting simple, smooth and effective user experiences
-- **Skills**: Flutter, Dart, Firebase, REST APIs, UI/UX design
-
-## Support
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) [![🌊 - WaveUi](https://img.shields.io/badge/🌊-WaveUi-2196f3?style=for-the-badge)](https://pub.dev/packages/waveui)
 
 If you find my work valuable, consider starring the repositories you find useful!
 
 ---
 
-Thank you for visiting my portfolio! Explore my projects and feel free to reach out for collaboration opportunities.
+Thanks for visiting! Feel free to explore my projects and reach out for collaboration.
